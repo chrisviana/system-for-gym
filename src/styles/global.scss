@@ -1,0 +1,22 @@
+:root {
+  --primary-write: #fff;
+  --primary-black: #000;
+
+  --primary-blue: #3F8CFF;
+
+  --primary-gray: #F4F9FD;
+  --gray-100: #D8E0F0;
+  --gray-300: #7D8592;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+ }
+
+body, input, textarea, button {
+  font: 400 1rem "Nunito Sans", sans-serif;
+}
+
